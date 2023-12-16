@@ -1,0 +1,69 @@
+body {
+    padding:40px;
+}
+
+#section1 {
+    border:2px solid #333;
+    margin-left: px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+#section1 h1 {
+    color: black;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word;
+
+}
+
+#section1 p {
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    word-wrap: break-word;
+    font-weight: 400;
+}
+
+#section1 a {
+    color: rgb(3, 0, 0);
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+}
+
+#section2 img {
+    width: 1051px;
+    height: 762px;
+}
+
+#section2 a {
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+    line-height: normal;
+}
+
+h3 {
+    color: black;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 700;
+    text-decoration: underline;
+    word-wrap: break-word;
+}
+
+ol {
+    color: black;
+    font-size: 40px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
